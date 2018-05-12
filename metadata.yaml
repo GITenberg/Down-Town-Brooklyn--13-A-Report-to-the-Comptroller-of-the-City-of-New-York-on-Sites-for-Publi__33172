@@ -1,0 +1,28 @@
+_repo: Down-Town-Brooklyn--13-A-Report-to-the-Comptroller-of-the-City-of-New-York-on-Sites-for-Publi__33172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooklyn (New York, N.Y.). Committee of Ten
+    gutenberg_agent_id: '41580'
+    url: http://www.gutenberg.org/2009/agents/41580
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads, Elevated -- New York (State) -- New York'
+- !lcsh 'Brooklyn (New York, N.Y.) -- History'
+- !lcc 'F106'
+- !lcc 'TF'
+title: "Down Town Brooklyn\r\nA Report to the Comptroller of the City of New York\
+  \ on Sites for Public Buildings and the Relocation of the Elevated Railroad Tracks\
+  \ now in Lower Fulton Street, Borough of Brooklyn"
+url: http://www.gutenberg.org/ebooks/33172
